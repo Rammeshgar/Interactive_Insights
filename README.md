@@ -1,11 +1,11 @@
-#Interactive Insights README
+# Interactive Insights README
 
 https://rpubs.com/rammeshgar/Interactive_Insights
 ![Screenshot 2024-04-03 005300](https://github.com/user-attachments/assets/d3ae3557-8872-464d-8b1c-9a6ae0c39596)
 
-####This interactive dashboard allows you to explore global population trends and pollution-related data. You’ll find two main pages: one for population analysis and another for pollution statistics.
+#### This interactive dashboard allows you to explore global population trends and pollution-related data. You’ll find two main pages: one for population analysis and another for pollution statistics.
 
-##Features
+## Features
 
 #### Includes interactive plots showing population trends over time.
 #### Includes interactive plots showing polution related metrics over time.
